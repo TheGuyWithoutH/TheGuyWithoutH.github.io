@@ -1,6 +1,5 @@
 ---
-permalink: /tmwtga
 redirect_to:
-  - http://www.google.com
+  - https://www.google.com
 nav_exclude: true
 ---
